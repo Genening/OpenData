@@ -1,4 +1,4 @@
-# openDataset
+# OpenDataset
 这是一个开源项目，用于收集并整理互联网上的数据集。数据集采用JSON格式存储。
 This is an open source repository for collecting free data from internet. Dataset will be store in JSON format.
 
