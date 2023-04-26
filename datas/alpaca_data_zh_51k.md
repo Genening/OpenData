@@ -1,0 +1,1 @@
+这一份数据来自huggingface中alpaca的中文训练数据，除此之外，还有很多数据，例如：https://huggingface.co/datasets/beyond/chinese_clean_passages_80m  https://huggingface.co/ziqingyang，等等链接，其中都有开源中文数据可用
